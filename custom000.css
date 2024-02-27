@@ -1,0 +1,23 @@
+    .div_1{
+        width: 300px;
+        height: 300px;
+        border: 2px solid pink;
+        margin: 20px 30px 20px 30px;
+    }
+    .div_2{
+        background-color: greenyellow;
+        width: 200px;
+        height: 100px;
+        border: 3px solid black;
+       box-shadow: 3px 2px 3px 2px blueviolet ;
+        padding: 20px 20px 20px 20x;
+    }
+    .titulo_1{
+        font-size: 15px;
+    }
+    .p_1{
+        color: white;
+        
+    }
+
+    
