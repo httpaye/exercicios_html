@@ -1,0 +1,17 @@
+
+li{
+     padding: 10px 10px;
+    margin: 10px 10px;
+    border: 1px solid gainsboro;
+    border-radius: 5px;
+}
+
+li:first-child {
+    background-color: lightpink;
+    color: whitesmoke;
+}
+
+li:last-child {
+ background-color: moccasin;
+ border: none
+}

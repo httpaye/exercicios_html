@@ -1,0 +1,16 @@
+table{
+    border: 1px solid gainsboro;
+    border-radius: 5px;
+}
+tr{
+    padding: 10px;
+}
+th{
+    color: aquamarine;
+    background-color: blue;
+}
+
+th:last-child{
+    background-color: darkblue;
+    color: white;
+}
