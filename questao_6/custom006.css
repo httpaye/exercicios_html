@@ -1,11 +1,11 @@
-table{
+table,td{
     border: 1px solid gainsboro;
     border-radius: 5px;
 }
 tr{
     padding: 10px;
 }
-th{
+th:first-child{
     color: aquamarine;
     background-color: blue;
 }
